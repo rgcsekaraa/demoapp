@@ -17,7 +17,7 @@ class Product
     #[ORM\Column(length: 128)]
     private ?string $name = null;
 
-    #[ORM\Column(type: Types::TEXT, nullable: true)]Å
+    #[ORM\Column(type: Types::TEXT, nullable: true)]
     private ?string $description = null;
 
     #[ORM\Column(nullable: true)]
