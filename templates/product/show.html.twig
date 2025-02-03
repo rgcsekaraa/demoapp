@@ -19,4 +19,6 @@
             </tr>
     </tbody>
 </table>
+<a href="{{ path('product_edit', {'id': product.id}) }}">edit</a>
+<a href='{{ path('product_delete', {'id': product.id}) }}'>delete</a>
 {% endblock %}
