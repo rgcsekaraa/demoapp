@@ -4,11 +4,10 @@
     <h1>New Product</h1>
 
     {{ form_start(form) }}
-        {{ form_row(form.name) }}
-        {{ form_row(form.description) }}
-        {{ form_row(form.size) }}
-
-        <button type="submit">Create</button>
+     {{form_row(form.name)}}
+     {{form_row(form.description)}}
+     {{form_row(form.size)}}
+     {{form_row(form.save)}}
     {{ form_end(form) }}
 
     <a href="{{ path('product_index') }}">back to list</a>
