@@ -1,6 +1,3 @@
-Here’s your text formatted neatly as a README while keeping the content unchanged:
-
-```markdown
 # ProcurePro Backend Technical Challenge
 
 Hi Nathan, Tomm,
@@ -91,4 +88,3 @@ This technical task gave me a good understanding of:
 
 I now have a good grasp of the codebase—I almost own it now!  
 I am definitely willing to learn more and gain hands-on experience with Symfony and PHP while learning best practices so that I can contribute effectively.
-```
