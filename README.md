@@ -3,14 +3,13 @@
 Hi Nathan, Tomm,
 
 I completely agree with what you mentioned about not spending more than 2 hours on this, but eventually, I spent 2 days learning and implementing the challenges.  
-Previously, I have tried to modify PHP functions to implement some custom functions in the WordPress website, but not like pure hands-on experience. Very challenging and interesting to learn.
+Previously, My only PHP experience was, I had worked on modifying PHP functions to implement custom features on a WordPress website, but it wasn’t as hands-on as this experience. This technical task was a great learning opportunity, I pushed myself to give my best in learning and solving the challenge.
 
 ---
 
 ## Learning Process
 
-I started by reading all the instructions from the repo (concepts, setup, tasks). I went through the docs, and since I had previous project experience with Django, Symfony was similar (MVC architecture, templates, make commands), and I was able to quickly grasp the core concepts.  
-I understood the core concepts about pure functions and DTO.
+I started by reading all the instructions from the repo (concepts, setup, tasks). I went through the docs, and I understood the core concepts about pure functions and DTO. since I had previous project experience with Django, Symfony was Quite similar (MVC architecture, templates, make commands), and I was able to quickly grasp the core concepts.
 
 ### Tutorials I Followed:
 
