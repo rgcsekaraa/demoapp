@@ -73,16 +73,15 @@ I attempted to send it as a string, parse it, validate it, store it as an intege
 - I wasn't able to run phpunit test in the phpstorm, but I ran all the unit tests and functional tests using the terminal and they passed.
 - I haven’t tried concurrent testing (e.g., passing concurrent requests to the same contractor to ensure persistence).
 - I tried to pay maximum attention to address validation issues and test cases but might have missed something.
+- I Have implemented private helper function to validate the name twice, once in the create and patch controller. do we need to refactor it to a separate service?
 - I would love feedback on missed cases or how to optimize/approach problems better.
 
 ---
 
 ## Takeaways
 
-This technical task gave me a good understanding of: The MVC architecture in Symfony.Basics of PHP language, Brushed up on OOP concepts, type safety and static analysis, Learned about validations and test cases.
+This technical task gave me a good understanding of The MVC architecture in Symfony.Basics of PHP language, Brushed up on OOP concepts, type safety and static analysis, Learned about validations and test cases.
 
-I now have a good grasp of the codebase, I almost own it now 😅!
+I now have a good grasp of the codebase, got blended with it 😅!
 
-I am eagerly waiting to discuss the challenges and the approach I implemented during the interview.
-
-I am looking forward to learning more about the best practices and how to optimize the codebase and contribute effectively 💯.
+I am eagerly waiting to discuss the challenges and the approach I implemented during the interview, also looking forward to learn more about the best practices and how to optimize the codebase and contribute effectively 💯.
