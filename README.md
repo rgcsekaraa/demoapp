@@ -81,5 +81,8 @@ I attempted to send it as a string, parse it, validate it, store it as an intege
 
 This technical task gave me a good understanding of: The MVC architecture in Symfony.Basics of PHP language, Brushed up on OOP concepts, type safety and static analysis, Learned about validations and test cases.
 
-I now have a good grasp of the codebase, I almost own it now 😅!  
-I will discuss the challenges I faced and the solutions I implemented during the interview. I am looking forward to learning more about the best practices and how to optimize the codebase and contribute effectively 💯.
+I now have a good grasp of the codebase, I almost own it now 😅!
+
+I am eagerly waiting to discuss the challenges and the approach I implemented during the interview.
+
+I am looking forward to learning more about the best practices and how to optimize the codebase and contribute effectively 💯.
